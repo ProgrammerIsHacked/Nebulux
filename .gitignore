@@ -1,0 +1,22 @@
+# KiCad temporary and lock files
+*.lck
+~*.lck
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+
+# Local workspace state
+*.kicad_prl
+
+# Generated reports and legacy caches
+*.erc
+*.drc
+*.rpt
+*.net
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+fp-info-cache
+
